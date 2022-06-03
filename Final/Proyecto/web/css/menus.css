@@ -126,10 +126,20 @@ body.moe{
     bottom: 54%;
     left: 20%;
 }
+.altitas1{
+    position: absolute;
+    bottom: 54%;
+    left: 32%;
+}
 .consultitas{
     position: absolute;
     bottom: 53%;
     left: 71%;
+}
+.consultitas1{
+    position: absolute;
+    bottom: 53%;
+    left: 57%;
 }
 .cambios{
     position: absolute;
